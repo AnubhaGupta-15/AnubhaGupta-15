@@ -1,10 +1,6 @@
 <h3 align="center"> <samp>AH, I see you’re a person of culture — WELCOME! 🥸👩‍💻</font> </samp> </h3>
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=AnubhaGupta-15&icon=6&color=11" alt="Profile Visitor Count">
-</a>
-<!-- [![](https://visitcount.itsvg.in/api?id=AnubhaGupta-15&icon=6&color=11)](https://visitcount.itsvg.in)
--->
+[![](https://visitcount.itsvg.in/api?id=AnubhaGupta-15&icon=6&color=11)](https://visitcount.itsvg.in)
 
 
   <h4 align="center">  <samp>  
