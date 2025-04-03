@@ -1,5 +1,12 @@
 <h3 align="center"> <samp>AH, I see you’re a person of culture — WELCOME! 🥸👩‍💻</font> </samp> </h3>
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=AnubhaGupta-15&icon=6&color=11" alt="Profile Visitor Count">
+</a>
+<!-- [![](https://visitcount.itsvg.in/api?id=AnubhaGupta-15&icon=6&color=11)](https://visitcount.itsvg.in)
+-->
+
+
   <h4 align="center">  <samp>  
     I'm <strong>Anubha Gupta</strong>, a <strong>Machine Learning and Deep Learning professional</strong> with a  
     <strong>Master’s in Big Data Science</strong> from  
@@ -13,9 +20,9 @@
   </samp>  
 </h4>
 
-<p align="center">
-  <img width="250" src="[https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWdxaTg3MGdiMGdhaHMyazI3em50eTA5YnZnMzBsN3NwcGlnOGt0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1Yiwq33DQ3NzI4975y/giphy.gif]">
-</p>
+
+
+  <p align="center"> <img width="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWdxaTg3MGdiMGdhaHMyazI3em50eTA5YnZnMzBsN3NwcGlnOGt0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1Yiwq33DQ3NzI4975y/giphy.gif"></p>
 
 
 
@@ -23,26 +30,8 @@
 <img align="right" height="150" src="https://giphy.com/gifs/l3fQbw1EaxSFPqme4"  />
 
 
-<!--
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
 
-###
 
--->
 
 # 📚 🔥 Publication
 
@@ -84,12 +73,21 @@
 
 ---
 
- # 📊 GitHub Stats
-![Anubha's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnubhaGupta-15&show_icons=true&theme=tokyonight)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AnubhaGupta-15&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AnubhaGupta-15&theme=ambient_gradient&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnubhaGupta-15&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
- <h3 align="centre"> (![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnubhaGupta-15&layout=compact&theme=tokyonight) ) </h3>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AnubhaGupta-15&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
 
 ---
 
-### ***Data is the fuel, algorithms are the engine, and insights are the destination.***
+### ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical">
+</p>
+
 
