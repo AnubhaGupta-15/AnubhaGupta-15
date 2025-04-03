@@ -1,17 +1,5 @@
 <h1 align="center"> <samp>AH, I see you’re a person of culture — WELCOME! 🥸👩‍💻</font> </samp> </h1>
-
-[![](https://visitcount.itsvg.in/api?id=AnubhaGupta-15&icon=2&color=11)](https://visitcount.itsvg.in)
-
-  <h3 align="center">  <samp>  
-    I'm <strong>Anubha Gupta</strong>, a <strong>Machine Learning and Deep Learning professional</strong> with a  
-    <strong>Master’s in Big Data Science</strong> from Queen Mary University of London and a B.Tech in Computer Science.
-    
-
-    
- <p align="center"> 
-  <img height= "10%" width="10%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJtdTN5ZWJwZGplempicjBsdXlxemI3bG85d29rZXY5N2xsM3U4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fr5bBHPLpwhg3ZcGOY/giphy.gif">
- 
- </p>
+ <h3 align="center">  <samp>
     I specialize in <strong>designing and optimizing machine learning models</strong>, developing <strong>deep learning architectures</strong> for  
     <strong>predictive analytics</strong>, <strong>anomaly detection</strong>, and <strong>large-scale data processing</strong>.  
     <br><br>
